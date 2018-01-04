@@ -1,3 +1,3 @@
 node default {
-incude role::master_server
+include role::master_server
 }
